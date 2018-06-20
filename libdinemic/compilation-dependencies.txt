@@ -1,0 +1,15 @@
+OpenPGM installation:
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/openpgm/libpgm-5.2.122.tar.bz2
+
+ZMQ installation:
+sudo apt-get install libpgm-5.2.0
+./configure --with-pgm
+make -j 4
+sudo make install
+
+
+Compilation:
+qt5-qmake gcc g++ make qttools5-dev-tools qt5-default libzmq-dev libboost-regex1.55-dev libhiredis-dev libevent-dev
+
+Installation:
+libboost-regex1.55.0 libhiredis0.10 libzmq libevent-2.0-5 gpg rng-tools libpgm-5.2.0

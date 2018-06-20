@@ -1,0 +1,4 @@
+#define DINEMIC_VERSION "0.1.1"
+#define DINEMIC_ARCH "x86_64-linux-gnu"
+#define DINEMIC_BUILD "201801181009"
+#define DINEMIC_ID "2a4a3119-88b2-44b6-ad02-a5645604c979"
